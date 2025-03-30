@@ -16,4 +16,3 @@ This repository contains a project to query the AdventureWorks database, a sampl
 - Fetch sales orders from May 2011
 - Calculate total sales by month and customer
 
-Contact: [support@intellipaat.com](mailto:support@intellipaat.com)
